@@ -17,7 +17,7 @@ Ova knjiga nije nastala u izdavačkoj kući i nije je napisao inženjer sa dvade
 
 Nadogradio sam računar da bi jedna mlada dizajnerka, koja sa devetnaest godina već stvara svetove u Roblox-u i Minecraft-u, mogla neometano da radi ono što voli. A onda se dogodilo nešto što je pokrenulo sve: jedan neoptimizovan shader model je u sekundi progutao 14 gigabajta RAM-a. Novi računar nije rešio problem — samo ga je odložio.
 
-Tada mi je postalo jasno da problem nije u hardveru, nego u znanju koje njoj niko nikada nije preneo. Talenat je imala. Alate je imala. Ali niko joj nije objasnio pravila igre između umetnosti i mašine — zašto računar „boli“ ono što je lepo, i kako se pravi svet koji izgleda raskošno, a radi glatko.
+Tada mi je postalo jasno da problem nije u hardveru, nego u znanju koje njoj niko nikada nije preneo. Talenat ima. Alate ima. Ali niko joj nije objasnio pravila igre između umetnosti i mašine — zašto računar „boli“ ono što je lepo, i kako se pravi svet koji izgleda raskošno, a radi glatko.
 
 Ja se ne bavim 3D grafikom i ne razumem se u igre. To otvoreno priznajem. Zato sam znanje potražio tamo gde ga danas ima u izobilju — kod veštačke inteligencije. Ova knjiga je rezultat saradnje više AI sistema, i smatram da je pošteno prema čitaocu da to jasno kažem:
 
